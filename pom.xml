@@ -220,7 +220,7 @@
  <distributionManagement>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <url>http://13.127.197.10:8081/repository/maven-snapshots/</url>
+      <url>http://13.233.184.8:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
  </distributionManagement>
 </project>
